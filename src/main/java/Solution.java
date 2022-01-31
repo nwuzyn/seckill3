@@ -22,6 +22,6 @@ class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        solution.reverseWords("the sky is blue");
+        solution.reverseWords("the sky  is blue");
     }
 }
