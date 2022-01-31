@@ -13,7 +13,6 @@ class Solution {
                 sb.append(" ");
                 fast--;
             } else {
-
                 fast--;
             }
         }
